@@ -186,7 +186,7 @@ const Contact = () => {
                 Address
               </h4>
               <p className="text-orange-500 leading-normal">
-                Lekki, Lagos, Nigeira
+                Unit 13, La Vida Estate, Off Amore Street, Lekki, Lagos
               </p>
             </div>
           </div>
